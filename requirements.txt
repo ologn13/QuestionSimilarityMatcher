@@ -1,0 +1,6 @@
+scikit-learn
+gensim
+tensorflow
+keras
+flask
+flask-restful
